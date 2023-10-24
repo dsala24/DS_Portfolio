@@ -29,7 +29,7 @@
 ### 2. [Medical Insurance Premium Prediction with Machine Learning](https://github.com/dsala24/Medical-Insurance-ML/tree/main)
  -  Data was gathered from a diverse sample of insured individuals, encompassing variables such as age, gender, BMI, smoking habits, region, and medical charges. 
  -  Feature selection was carried out to identify the most influential attributes in predicting insurance premiums.
- -  Optimzed linear regression, decision trees, and ensemble models to determine predictive performance
+ -  Optimized linear regression, decision trees, and ensemble models to determine predictive performance
 
 ### 3. [Deep Learning Respiratory Disease Detection and Classification](https://github.com/dsala24/Respiratory-Disease-DL/tree/main)
  -  A dataset consisting of medical imaging data, including X-rays and CT scans of chest ailments, was assembled. The dataset comprises cases of various chest diseases, including Viral and Bacterial pneumonia, as well as Covid-19.
