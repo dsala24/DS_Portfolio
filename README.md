@@ -24,32 +24,28 @@
  -  
  -  
    
-[](https://github.com/dsala24/DS_Portfolio/blob/main/assets/images/Telecom%20Customers%20Churn%20ROC.png)
+![](https://github.com/dsala24/DS_Portfolio/blob/main/assets/images/Telecom%20Customers%20Churn%20ROC.png)
 
 ### 2. [Medical Insurance Premium Prediction with Machine Learning](https://github.com/dsala24/Medical-Insurance-ML/tree/main)
  -  
  -  
  -  
 
-### 3. [NBA Rookies Career Longevity using Scikit-learn](https://github.com/dsala24/NBA-Career-Longevity/tree/main)
+### 3. [Deep Learning Respiratory Disease Detection and Classification](https://github.com/dsala24/Respiratory-Disease-DL/tree/main)
  -  
  -  
  -  
 
-### 4. [Deep Learning Respiratory Disease Detection and Classification](https://github.com/dsala24/Respiratory-Disease-DL/tree/main)
- -  
- -  
- -  
+![](https://github.com/dsala24/DS_Portfolio/blob/main/assets/images/Chest-X-Ray-Classification-Images-2.png)
+![](https://github.com/dsala24/DS_Portfolio/blob/main/assets/images/Chest-X-Ray-Classification-CM-2.png)
 
-[](https://github.com/dsala24/DS_Portfolio/blob/main/assets/images/Chest-X-Ray-Classification-Images-2.png)
-[](https://github.com/dsala24/DS_Portfolio/blob/main/assets/images/Chest-X-Ray-Classification-CM-2.png)
-
-### 5. [Deep Learning for Real-Estate Price Prediction]()
+### 4. [Deep Learning for Real-Estate Price Prediction]()
  -  
  -  
  -  
 
 ### Additional Projects
+ - NBA Rookies Career Longevity using Scikit-learn
  - Machine Learning with PySpark: Customer Churn Analysis
  - Predict Sales Revenue with scikit-learn
  - Diabetes Disease Detection with XG-Boost and Neural Networks
