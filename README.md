@@ -24,7 +24,7 @@
  - Proficiently prepared and employed data to develop and train logistic regression, support vector machine, random forest, K-nearest neighbor, and naive Bayes classifier models for predicting customer churn
  - The results of the comparison between different classification models reveal that the Random Forest model achieved an F1 score of approximately 90%. Future work will aim to enhance the model further through the implementation of advanced techniques such as grid search. 
    
-![](/images/Telecom%20Customers%20Churn%20ROC.png)
+![](https://github.com/dsala24/DS_Portfolio/blob/main/assets/images/Telecom%20Customers%20Churn%20ROC.png)
 
 ### 2. [Medical Insurance Premium Prediction with Machine Learning](https://github.com/dsala24/Medical-Insurance-ML/tree/main)
  -  Data was gathered from a diverse sample of insured individuals, encompassing variables such as age, gender, BMI, smoking habits, region, and medical charges. 
@@ -37,8 +37,8 @@
  -  Model evaluation and hyperparameter tuning were performed, resulting in the selection of a robust CNN architecture.
  -  The model effectively classified healthy and viral pneumonia (F1 > 87%), while future improvements are needed for bacterial pneumonia (F1 < 63%) and Covid-19 (F1 < 75%).
 
-![](/images/Chest-X-Ray-Classification-Images-2.png)
-![](/images/Chest-X-Ray-Classification-CM-2.png)
+![](https://github.com/dsala24/DS_Portfolio/blob/main/assets/images/Chest-X-Ray-Classification-Images-2.png)
+![](https://github.com/dsala24/DS_Portfolio/blob/main/assets/images/Chest-X-Ray-Classification-CM-2.png)
 
 
 ### Additional Projects
