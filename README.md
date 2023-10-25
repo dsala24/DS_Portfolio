@@ -24,7 +24,7 @@
  - The results of the comparison between different classification models reveal that the Random Forest model achieved an F1 score of 90%.
  - Future work will aim to enhance the model further through the utilization of advanced techniques such as grid search. 
 
-![ROC](./images/Telecom%20Customers%20Churn%20ROC.png)
+![ROC](https://github.com/dsala24/DS_Portfolio/blob/main/assets/images/Telecom%20Customers%20Churn%20ROC.png)
 
 ### 2. [Medical Insurance Premium Prediction with Machine Learning](https://github.com/dsala24/Medical-Insurance-ML/tree/main)
  - Collected data from a diverse sample of insured individuals, covering age, gender, BMI, smoking habits, region, and medical charges.
@@ -39,8 +39,8 @@
  - Achieved effective classification of healthy and viral pneumonia (F1 > 87%), with room for improvement in bacterial pneumonia (F1 < 63%) and Covid-19 (F1 < 75%).
  - Future work will focus on enhancing bacterial pneumonia and Covid-19 classification.
 
-![Img](./images/Chest-X-Ray-Classification-Images-2.png)
-![CM](./images/Chest-X-Ray-Classification-CM-2.png)
+![Img](https://github.com/dsala24/DS_Portfolio/blob/main/assets/images/Chest-X-Ray-Classification-Images-2.png)
+![CM](https://github.com/dsala24/DS_Portfolio/blob/main/assets/images/Chest-X-Ray-Classification-CM-2.png)
 
 
 ### Additional Projects
