@@ -10,7 +10,6 @@
  - Business Intelligence by Google 	(2023)
 
 
-## Overall 
 ### Competency Skills
  - Skillset: EDA - Data & Business Analysis - Modeling - Dashboarding & Reporting 
  - Programming Languages: Python and SQL
