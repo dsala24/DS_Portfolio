@@ -19,7 +19,7 @@
 
 ## Projects 
 ### 1. [Predictive Machine Learning Analytics for Telecom Customer Churn](https://github.com/dsala24/Telecom-Customer-Churn/tree/main) 
- - Demonstrated expertise in business analytics, encompassing a range of objectives, such as understanding business cases, classifier models implementation, data handling, exploratory data analysis, and interactive data visualization.
+ - Demonstrated expertise in business analytics, encompassing a range of objectives, such as understanding business cases, classifier model implementation, data handling, exploratory data analysis, and interactive data visualization.
  - Proficiently prepared and employed data to develop and train logistic regression, support vector machine, random forest, k-nearest neighbor, and naive bayes classifier models for predicting customer churn.
  - The results of the comparison between different classification models reveal that the Random Forest model achieved an F1 score of 90%.
  - Future work will aim to enhance the model further through the utilization of advanced techniques such as grid search. 
