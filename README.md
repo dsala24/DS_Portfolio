@@ -34,7 +34,7 @@
 
 ### 3. [Deep Learning Respiratory Disease Detection and Classification](https://github.com/dsala24/Respiratory-Disease-DL/tree/main)
  - Compiled a medical imaging dataset with X-rays and CT scans featuring respiratory disease conditions, including Viral and Bacterial pneumonia, and Covid-19.
- - Explored deep learning models, with a focus on employing ResNet50 in conjunction with additional Convolutional Neural Networks (CNNs) for image classification tasks.
+ - Explored deep learning models, focusing on employing ResNet50 in conjunction with additional Convolutional Neural Networks (CNNs) for image classification tasks.
  - Conducted model evaluation and hyperparameter tuning, leading to the choice of a robust CNN architecture.
  - Achieved effective classification of healthy and viral pneumonia (F1 > 87%), with room for improvement in bacterial pneumonia (F1 < 63%) and Covid-19 (F1 < 75%).
  - Future work will focus on enhancing bacterial pneumonia and Covid-19 classification.
